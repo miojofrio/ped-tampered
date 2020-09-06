@@ -26,7 +26,7 @@ Detalhar:
 * Especificações técnicas,
 * Mecanismos de Anti-Tamper (Anti-Adulteração),
 * Menus de configuração,
-* Comunicação Serial DEJTAG,
+* Comunicação Serial/JTAG,
 * IO (LCD, Teclado, Bluetooth).
 
 # Maquininhas:
