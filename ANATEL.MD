@@ -14,7 +14,7 @@ Se você não possui o número de homologação, ou quer consultar todos os prod
 
 No endereço, você também pode baixar um arquivo `csv` com os dados da sua seleção atual, ou de todos os produtos já homologados pela Anatel.
 
-![sistema-consulta-produtos-anatel](imagens/tutoriais/consulta-produtos-anatel.png)
+![sistema-consulta-produtos-anatel](imagens/tutoriais/sistema-consulta-produtos-anatel.png)
 
 ## Sistema Mosaico
 
