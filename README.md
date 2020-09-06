@@ -29,12 +29,12 @@ Detalhar:
 * Comunicação Serial DEJTAG,
 * IO (LCD, Teclado, Bluetooth).
 
-# Máquininhas:
+# Maquininhas:
 
-*[PAX D150](PAX-D150.md)
-*PAX D180 (Em construção)
-*Newland ME30S (Em construção)
-*SUMUP PIN+ (Em construção)
+* [PAX D150](PAX-D150.md)
+* PAX D180 (Em construção)
+* Newland ME30S (Em construção)
+* SUMUP PIN+ (Em construção)
 
 
 
