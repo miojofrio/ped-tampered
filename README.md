@@ -4,12 +4,6 @@ Este repositório agrega uma coleção de informações sobre POS's disponíveis
 
 **Esse projeto não tem como objetivo, e não apoia a utilização das informações aqui dispostas para modificações de POS's para uso ilegal, ou em má fé**
 
-1 Introdução
-2 Objetivos
-2.1 Objetivos Específicos
-
-
-
 # 1 Introdução
 
 Desde 2014 vem acontecendo uma grande invasão de máquinas de baixo custo do tipo PoS (Point of Service), com foco em pequenos empresários e autônomos.  ....
